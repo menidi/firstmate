@@ -1,0 +1,50 @@
+
+
+⏺ ack
+
+✻ Baked for 1s · done 8:04 PM
+
+⏺ Stop hook feedback
+
+⏺ ack
+
+✻ Churned for 1s · done 8:05 PM
+
+⏺ Stop hook feedback
+
+⏺ ack
+
+✻ Brewed for 1s · done 8:05 PM
+
+❯ New rule for this lab test, superseding the earlier one: for every watcher wake or Stop hook feedback, run bin/fm-wake-drain.sh, then run the exact WAKE_ACK_REQUIRED --ack-through command it prints
+  (if it prints one), and if it shows BRANCH OUTCOMES run the mark-processed command it names. Do not run anything else, do not arm watchers, then reply: ack
+
+⏺ ack
+
+✻ Cogitated for 3s · done 8:05 PM
+
+⏺ Stop hook feedback
+
+  Ran 1 shell command
+
+⏺ Stop hook feedback
+
+  Ran 2 shell commands
+
+⏺ ack
+
+✻ Worked for 9s · done 8:05 PM
+
+⏺ Stop hook feedback
+
+  Ran 2 shell commands
+
+⏺ ack
+
+✻ Cooked for 6s · done 8:08 PM
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  da@Dimitriss-Mac-Studio 01M4BJR0YAKXY2EEKTANYG1EYM [Opus 5.5] | Ctx: 🟢 38% (76k/200k)
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents

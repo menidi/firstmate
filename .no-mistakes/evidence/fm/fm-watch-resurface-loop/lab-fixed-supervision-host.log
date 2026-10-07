@@ -1,0 +1,123 @@
+1791392442	start	gen=host-59772-1791392442	primary=claude
+1791392489	handled	turn=host-59772-1791392442.1	posture=attended	rc=0	reports=1	error=0 cost=0.023215 conversation_cost=0.023215 input=8 cache_read=50016 cache_write=2209 output=436 turns=4	signal: /var/folders/m3/81qcpm653_19d59xvhm52h2m0000gn/T//fm-lab.SLyVh4/state/demo.status
+1791392489	to-main	branch-outcome: the supervision session handled this wake and recorded captain outcomes for you (store rows 1); run bin/fm-wake-drain.sh, act on its BRANCH OUTCOMES section, and acknowledge them as it prints
+1791392492	start	gen=host-71182-1791392492	primary=claude
+1791392493	pass-through	attended	main-only	check: rearm-resurface
+1791392496	start	gen=host-74481-1791392496	primary=claude
+1791392496	take-over	arm=72886
+1791392529	pass-through	attended	main-only	signal: /var/folders/m3/81qcpm653_19d59xvhm52h2m0000gn/T//fm-lab.SLyVh4/state/demo.status
+1791392532	start	gen=host-83452-1791392532	primary=claude
+1791392532	take-over	arm=81688
+1791392534	pass-through	attended	main-only	check: rearm-resurface
+1791392537	start	gen=host-88029-1791392537	primary=claude
+1791392539	pass-through	attended	main-only	check: rearm-resurface
+1791392542	start	gen=host-90611-1791392542	primary=claude
+1791392542	take-over	arm=89145
+1791392544	pass-through	attended	main-only	check: rearm-resurface
+1791392547	start	gen=host-93155-1791392547	primary=claude
+1791392547	take-over	arm=91909
+1791392549	pass-through	attended	main-only	check: rearm-resurface
+1791392552	start	gen=host-96087-1791392552	primary=claude
+1791392552	take-over	arm=94396
+1791392554	pass-through	attended	main-only	check: rearm-resurface
+1791392557	start	gen=host-99608-1791392557	primary=claude
+1791392557	take-over	arm=98327
+1791392559	pass-through	attended	main-only	check: rearm-resurface
+1791392562	start	gen=host-2807-1791392562	primary=claude
+1791392562	take-over	arm=1417
+1791392564	pass-through	attended	main-only	check: rearm-resurface
+1791392567	start	gen=host-5517-1791392567	primary=claude
+1791392567	take-over	arm=4204
+1791392569	pass-through	attended	main-only	check: rearm-resurface
+1791392572	start	gen=host-8207-1791392572	primary=claude
+1791392572	take-over	arm=6796
+1791392574	pass-through	attended	main-only	check: rearm-resurface
+1791392577	start	gen=host-10728-1791392577	primary=claude
+1791392577	take-over	arm=9491
+1791392579	pass-through	attended	main-only	check: rearm-resurface
+1791392583	start	gen=host-13255-1791392582	primary=claude
+1791392583	take-over	arm=12032
+1791392585	pass-through	attended	main-only	check: rearm-resurface
+1791392587	start	gen=host-15644-1791392587	primary=claude
+1791392587	take-over	arm=14471
+1791392589	pass-through	attended	main-only	check: rearm-resurface
+1791392592	start	gen=host-18581-1791392592	primary=claude
+1791392592	take-over	arm=16966
+1791392594	pass-through	attended	main-only	check: rearm-resurface
+1791392597	start	gen=host-22044-1791392597	primary=claude
+1791392597	take-over	arm=20077
+1791392599	pass-through	attended	main-only	check: rearm-resurface
+1791392602	start	gen=host-25482-1791392602	primary=claude
+1791392602	take-over	arm=23766
+1791392605	pass-through	attended	main-only	check: rearm-resurface
+1791392608	start	gen=host-27936-1791392608	primary=claude
+1791392608	take-over	arm=26716
+1791392610	pass-through	attended	main-only	check: rearm-resurface
+1791392613	start	gen=host-30395-1791392613	primary=claude
+1791392613	take-over	arm=29181
+1791392615	pass-through	attended	main-only	check: rearm-resurface
+1791392618	start	gen=host-33597-1791392618	primary=claude
+1791392618	take-over	arm=31835
+1791392620	pass-through	attended	main-only	check: rearm-resurface
+1791392623	start	gen=host-38060-1791392622	primary=claude
+1791392623	take-over	arm=34985
+1791392625	pass-through	attended	main-only	check: rearm-resurface
+1791392628	start	gen=host-42180-1791392628	primary=claude
+1791392628	take-over	arm=40095
+1791392630	pass-through	attended	main-only	check: rearm-resurface
+1791392633	start	gen=host-45155-1791392633	primary=claude
+1791392633	take-over	arm=43709
+1791392635	pass-through	attended	main-only	check: rearm-resurface
+1791392638	start	gen=host-47590-1791392637	primary=claude
+1791392638	take-over	arm=46394
+1791392640	pass-through	attended	main-only	check: rearm-resurface
+1791392643	start	gen=host-50328-1791392642	primary=claude
+1791392643	take-over	arm=49112
+1791392645	pass-through	attended	main-only	check: rearm-resurface
+1791392648	start	gen=host-52922-1791392648	primary=claude
+1791392648	take-over	arm=51712
+1791392650	pass-through	attended	main-only	check: rearm-resurface
+1791392653	start	gen=host-55491-1791392653	primary=claude
+1791392653	take-over	arm=54160
+1791392655	pass-through	attended	main-only	check: rearm-resurface
+1791392658	start	gen=host-59053-1791392658	primary=claude
+1791392658	take-over	arm=57357
+1791392660	pass-through	attended	main-only	check: rearm-resurface
+1791392663	start	gen=host-61919-1791392663	primary=claude
+1791392663	take-over	arm=60397
+1791392665	pass-through	attended	main-only	check: rearm-resurface
+1791392668	start	gen=host-64386-1791392668	primary=claude
+1791392668	take-over	arm=63175
+1791392670	pass-through	attended	main-only	check: rearm-resurface
+1791392673	start	gen=host-70350-1791392673	primary=claude
+1791392673	take-over	arm=66713
+1791392675	pass-through	attended	main-only	check: rearm-resurface
+1791392679	start	gen=host-73856-1791392678	primary=claude
+1791392679	take-over	arm=71708
+1791392681	pass-through	attended	main-only	check: rearm-resurface
+1791392684	start	gen=host-76901-1791392684	primary=claude
+1791392684	take-over	arm=75411
+1791392686	pass-through	attended	main-only	check: rearm-resurface
+1791392688	start	gen=host-79696-1791392688	primary=claude
+1791392688	take-over	arm=78171
+1791392690	pass-through	attended	main-only	check: rearm-resurface
+1791392693	start	gen=host-82330-1791392693	primary=claude
+1791392693	take-over	arm=81099
+1791392695	pass-through	attended	main-only	check: rearm-resurface
+1791392698	start	gen=host-84895-1791392698	primary=claude
+1791392698	take-over	arm=83615
+1791392700	pass-through	attended	main-only	check: rearm-resurface
+1791392703	start	gen=host-87314-1791392703	primary=claude
+1791392703	take-over	arm=86083
+1791392705	pass-through	attended	main-only	check: rearm-resurface
+1791392708	start	gen=host-89840-1791392708	primary=claude
+1791392708	take-over	arm=88587
+1791392710	pass-through	attended	main-only	check: rearm-resurface
+1791392714	start	gen=host-92519-1791392714	primary=claude
+1791392714	take-over	arm=91130
+1791392716	pass-through	attended	main-only	check: rearm-resurface
+1791392723	start	gen=host-98389-1791392723	primary=claude
+1791392723	take-over	arm=93869
+1791392881	pass-through	attended	main-only	signal: /var/folders/m3/81qcpm653_19d59xvhm52h2m0000gn/T//fm-lab.SLyVh4/state/demo.status
+1791392889	start	gen=host-21644-1791392889	primary=claude
+1791392889	take-over	arm=19176
